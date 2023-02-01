@@ -2005,10 +2005,6 @@ transition: all .3s;
       grid-template: none;
   }
 
-  .directions__list-item--empty {
-    display: none;
-  }
-
   .team__image-box {
     max-width: 300px;
     margin: 0 auto 16px;
