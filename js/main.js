@@ -36,11 +36,11 @@ $('.team__slider').slick({
     },
   ],
 })
-$('.team__prev').on('click', function (e) {
+$('.team__slider-prev').on('click', function (e) {
   e.preventDefault()
   $('.team__slider').slick('slickPrev')
 })
-$('.team__next').on('click', function(e) {
+$('.team__slider-next').on('click', function(e) {
   e.preventDefault()
   $('.team__slider').slick('slickNext')
 })
