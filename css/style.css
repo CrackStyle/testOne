@@ -2005,7 +2005,10 @@ transition: all .3s;
       grid-template: none;
   }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 009687fbc522e4348fe6205baf6b537e855d5571
   .team__image-box {
     max-width: 300px;
     margin: 0 auto 16px;
